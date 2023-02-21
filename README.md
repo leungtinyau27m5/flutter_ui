@@ -1,16 +1,11 @@
-# flutter_plant_app
-
-A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+My Flutter Practices
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div style="display: flex; gap: 16px; justify-content: space-between">
+<div>
+<img src="https://github.com/leungtinyau27m5/flutter_ui_practice/blob/master/git_images/static_home_screen.png" alt="home_screen" />
+<img src="https://github.com/leungtinyau27m5/flutter_ui_practice/blob/master/git_images/static_plant_detail_screen.png" alt="home_screen" />
+</div>
+</div>
